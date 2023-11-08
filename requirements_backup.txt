@@ -1,6 +1,3 @@
-
-https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/Triton-Nightly/pypi/simple/ triton-nightly
-
 git+https://github.com/oobabooga/torch-grammar.git
 
 # bitsandbytes
